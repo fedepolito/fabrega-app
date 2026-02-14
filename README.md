@@ -18,12 +18,10 @@ git clone https://github.com/fedepolito/fabrega-app.git
 ```
 2. Instalar dependencias:
 ```
-```
 npm install
 ```
 3. Iniciar servidor:
 ```
-```bash
 npm start
 ```
 Nota
