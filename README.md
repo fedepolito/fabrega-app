@@ -2,7 +2,7 @@
 
 Aplicación móvil de e-commerce desarrollada con React Native y Expo.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - React Native
 - Expo
@@ -10,7 +10,7 @@ Aplicación móvil de e-commerce desarrollada con React Native y Expo.
 - Expo Router
 - Tailwind CSS
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 1. Clonar el repositorio:
 ```bash
